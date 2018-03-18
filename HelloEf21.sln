@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27512.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEf21", "HelloEf21\HelloEf21.csproj", "{6E01CE92-5349-4429-AABE-08D1DC7C8332}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8610CA80-E8A8-44FD-A718-7397A957FC43}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
